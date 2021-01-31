@@ -34,7 +34,6 @@ body {
 }
 
 .page3 {
-  background-image: url("images/mac.jpg");
   height: 100%;
 }
 
@@ -53,6 +52,7 @@ body {
   margin-top: 0.1em;
   text-align: center;
   color: gray;
+  font-size: 24px;
 }
 
 .header > h3 {
